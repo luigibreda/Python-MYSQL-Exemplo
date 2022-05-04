@@ -2,8 +2,7 @@
 '''
 MySQL CRUD (Criar, Ler, Modificar e Deletar) Operações utilizando Python e MySQL.
 '''
-__author__ = "Gabriela"
-
+__author__ = "Gabrielle Duarte Würzius"
 __license__ = "MIT"
 __version__ = "0.0.1"
 __email__ = "gablinda@gmail.com"
